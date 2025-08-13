@@ -1,0 +1,2 @@
+# Projeto_NLP
+O objetivo principal deste projeto é transformar dados brutos de interações de clientes (incluindo texto livre) em insights acionáveis. Isso será feito através da construção de um modelo preditivo de satisfação do cliente e da criação de segmentos comportamentais, culminando na implementação de uma pipeline de Machine Learning Operations (MLOps) para automatizar e gerenciar o ciclo de vida do modelo.
